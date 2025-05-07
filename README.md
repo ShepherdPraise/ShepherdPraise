@@ -10,7 +10,7 @@
 
 ## 🚦 About Me
 
-- 👷 **Technical Manager & DevOps Pro**
+- 👷 **DevOps Pro & SysAdmin**
 - 🛠 **Specialties:** CI/CD, Docker, Kubernetes, Nginx, Cloud Ops, Monitoring & Logging
 - 💻 **Languages:** Bash, Python (learning), JavaScript
 - 🛡️ **Certifications:** [AZ-104 (in progress)], [ISC2 CC], [Others]
