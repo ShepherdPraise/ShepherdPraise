@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Shepherd Praise Onoja!
 
-🚀 **DevOps Engineer & Network Whisperer** | Making infrastructure *just work* since [year you started].
+🚀 **DevOps Engineer & Systems Whisperer** | Making infrastructure *just work* since 2018.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shepherdpraise&color=green)
 ![GitHub followers](https://img.shields.io/github/followers/shepherdpraise?style=social)
