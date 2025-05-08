@@ -28,7 +28,7 @@ I’m passionate about building *secure, scalable* systems and mentoring teams t
 | **GitHub Actions Toolkit**  | CI/CD workflows with GitHub Actions for Node.js, Python, Docker, and more |
 | **AWS Infra Stack**         | CloudFormation + Terraform setups for scalable AWS deployments           |
 | **Azure Deployment Suite**  | ARM templates + Bicep + Azure DevOps pipelines for smooth Azure delivery |
-| **Infrastructure Monitoring Suite** | Grafana + Prometheus + Wazuh + Auditd integrated setup |
+| **Infrastructure Monitoring Suite** | Grafana + Prometheus + Datadog |
 
 🔗 *Check my pinned repos for more!*
 
