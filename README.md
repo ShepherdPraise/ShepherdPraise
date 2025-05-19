@@ -12,7 +12,7 @@
 
 - 👷 **DevOps Pro & SysAdmin**
 - 🛠 **Specialties:** CI/CD, Docker, Kubernetes, Nginx, Cloud Ops, Monitoring & Logging
-- 💻 **Languages:** Bash, Python (learning), JavaScript
+- 💻 **Languages:** Bash, Python (learning).
 - 🛡️ **Certifications:** [AZ-104 (in progress)], [ISC2 CC], [Others]
 
 I’m passionate about building *secure, scalable* systems and mentoring teams to achieve operational excellence.
